@@ -30,8 +30,10 @@ p{
     color: wheat;
     font-weight: bold;
 }
-.top{
+.dream-big{
     display: flex;
-    padding: 0;
-    background-image: url();
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+   
 }
